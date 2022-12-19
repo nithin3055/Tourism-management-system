@@ -1,0 +1,8 @@
+1.Guntur
+2.Nellore
+3.Eluru
+4.Vizag
+5.Warangal
+6.West godavari
+7.East godavari
+8.Chittoor

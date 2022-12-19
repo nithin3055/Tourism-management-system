@@ -1,0 +1,8 @@
+Guntur - Mr.ABC - 1234567890  -- bus no: AP123
+Nellore - Mr.DEF - 0123456789 -- bus no: AP456
+Eluru - Mr.GHI - 7120466898 -- bus no: AP789
+Vizag - Mr.JKL - 801246789 -- bus no: AP1011
+Warangal - Mr.MNO - 0866794512 -- bus no: AP1609
+West godavari - Mr.PQR - 9780524681 -- bus no: AP2308
+East godavari - Mr.STU - 0476123890 -- bus no: AP0976
+Chittoor - Mr.VWX  - 8479123565 -- bus no: AP7777
